@@ -25,7 +25,7 @@ Awesome, React Icons, jQuery, Symphony 2, Laravel
 ### Contact Information
 
 * [Email](mailto:mitsuominagi@gmail.com) 
-* [LinkedIn](https://github.com/izaack89/)
+* [LinkedIn](https://www.linkedin.com/in/german-isaac-ramirez-casta%C3%B1on/)
 * [Portfolio](https://germanramirezcastanon.com/)
 
 
