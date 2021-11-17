@@ -17,11 +17,11 @@ Awesome, React Icons, jQuery, Symphony 2, Laravel
 
 ## EDUCATION
 Tecnológico de Monterrey, México
-• Certificate, Full Stack Web – Instituto Tecnológico de Monterrey CDMX
-• Web DB – NextU CDMX
-• Javascript - NextU CDMX
-• Certificate, Scrum Master – Ericsson CDMX
-• Computer System Engineering – Universidad Tecnológica de México Estado de México
+* Certificate, Full Stack Web – Instituto Tecnológico de Monterrey CDMX
+* Web DB – NextU CDMX
+* Javascript - NextU CDMX
+* Certificate, Scrum Master – Ericsson CDMX
+* Computer System Engineering – Universidad Tecnológica de México Estado de México
 
 ## Contact Information
 
