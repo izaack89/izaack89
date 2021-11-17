@@ -16,7 +16,6 @@ Awesome, React Icons, jQuery, Symphony 2, Laravel
 
 
 ## EDUCATION
-Tecnológico de Monterrey, México
 * Certificate, Full Stack Web – Instituto Tecnológico de Monterrey CDMX
 * Web DB – NextU CDMX
 * Javascript - NextU CDMX
