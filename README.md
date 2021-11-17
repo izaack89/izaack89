@@ -14,14 +14,6 @@ Context, Bootstrap-React, Styled-Component, Mongoose, Bootstrap, Materialize, AP
 Awesome, React Icons, jQuery, Symphony 2, Laravel
 * Others: Windows, Linux, AWS, Heroku, Tableau Server, Jest, Selenium Laravel, Selenium Plugin
 
-
-### EDUCATION
-* Certificate, Full Stack Web – Instituto Tecnológico de Monterrey CDMX
-* Web DB – NextU CDMX
-* Javascript - NextU CDMX
-* Certificate, Scrum Master – Ericsson CDMX
-* Computer System Engineering – Universidad Tecnológica de México Estado de México
-
 ### Contact Information
 
 * [Email](mailto:mitsuominagi@gmail.com) 
